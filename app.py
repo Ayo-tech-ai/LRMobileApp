@@ -1,4 +1,3 @@
-%%writefile app.py
 # Import Streamlit for building the web app
 import streamlit as st
 
